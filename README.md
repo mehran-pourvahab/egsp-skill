@@ -1,6 +1,6 @@
-# EGSP Skill — English Grammar Skill Pack
+# EGSP Skill — Engineering-Grade Software Production
 
-> A structured, AI-ready skill for English grammar correction, writing enhancement, and style guidance.
+> A structured, AI-ready skill for engineering-grade software production — covering architecture, security, observability, and lifecycle management.
 
 Available in **two formats** depending on your use case:
 
