@@ -1,0 +1,20 @@
+
+engineering_summary:
+  rigor_mode:
+  rationale:
+
+structured_engineering_report:
+  detailed_design:
+    modules:
+    data_models:
+    api_contracts:
+
+  implementation_artifacts:
+    source_code:
+    test_suites:
+
+  decision_matrix:
+    security:
+      status:
+      justification:
+      evidence:
