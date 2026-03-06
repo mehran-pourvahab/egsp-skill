@@ -1,8 +1,61 @@
 # EGSP Skill — Engineering-Grade Software Production
 
-> A structured, AI-ready skill for engineering-grade software production — covering architecture, security, observability, and lifecycle management.
+> A structured, AI-ready skill that brings engineering discipline to AI-assisted software development.
 
 Available in **two formats** depending on your use case:
+
+---
+
+## Why EGSP?
+
+AI coding tools often generate working code but miss engineering discipline.
+
+EGSP introduces guardrails that enforce:
+
+- Architectural clarity
+- Security considerations
+- Observability
+- Operational readiness
+
+This helps AI systems behave more like experienced software engineers rather than code generators.
+
+---
+
+## Architecture
+
+```
+AI Agent / Chatbot
+       │
+       ▼
+  EGSP Skill
+       │
+       ├─ Architecture Decisions
+       ├─ Security Guardrails
+       ├─ Observability Standards
+       ├─ Cost-Benefit Engineering
+       └─ Engineering Lifecycle
+```
+
+---
+
+## Typical Use Cases
+
+- AI-assisted software development
+- Agent-based coding environments
+- Architecture governance for AI coding tools
+- Secure code generation pipelines
+
+---
+
+## Supported Environments
+
+EGSP works well with:
+
+- [Claude](https://claude.ai) (Anthropic)
+- [Cursor](https://cursor.sh)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [OpenAI Agents](https://openai.com)
+- [Antigravity](https://antigravity.google)
 
 ---
 
